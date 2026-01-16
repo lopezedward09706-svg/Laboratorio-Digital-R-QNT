@@ -1,0 +1,9 @@
+{
+  "name": "Laboratorio Digital R-QNT",
+  "description": "A sophisticated quantum relational network simulator with 3D visualization and Gemini-powered scientific analysis.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
